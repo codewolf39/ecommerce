@@ -3,13 +3,11 @@
 > Zenith E-commerce is a full-stack MERN application featuring secure authentication, dynamic product management, and seamless Stripe-powered payments. Built for scalability, it delivers a smooth shopping experience with real-time order processing and a responsive UI.
 
 ## 📜 Table of Contents
-- [About](#about)
+- [About](#About)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Tech Stack](#tech-stack)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## 📖 About
 Zenith E-Commerce is a full-stack MERN application designed to provide a seamless and secure online shopping experience. Built with React and Material UI for a modern, responsive UI and powered by Node.js, Express, and MongoDB, the platform ensures efficient backend operations.
