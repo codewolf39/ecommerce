@@ -16,7 +16,7 @@ Zenith E-Commerce is a full-stack MERN application designed to provide a seamles
 
 Key highlights of the project include:
 
-Secure Authentication 🔐: Implemented JWT-based authentication to safeguard user data and enable role-based access control. 
+Secure Authentication 🔐: Implemented JWT-based authentication to safeguard user data and enable role-based access control.<br>
 RESTful APIs 🚀: Designed a scalable backend with optimized REST APIs for efficient data handling and smooth client-server communication.  
 Product Management 🛒: Integrated CRUD functionalities for managing products, categories, and inventory in real-time.  
 Stripe Payment Gateway 💳: Seamlessly integrated Stripe for secure transactions, supporting multiple payment methods.  
