@@ -38,7 +38,57 @@ With a scalable architecture and a focus on security, speed, and user experience
 ✅ 🛒 Dynamic Cart & Checkout – Real-time cart updates, order summary, and streamlined checkout flow for a frictionless buying experience.  
 
 ## ⚙️ Installation
-1. **Clone the repository**  
-   ```sh
-   git clone https://github.com/your-username/repository-name.git
-   cd repository-name
+# 🛍️ MERN E-Commerce Platform
+
+A full-featured e-commerce application built using the **MERN stack** with **Stripe** for secure payment processing.
+
+## 🚀 Installation Guide  
+
+Follow these steps to set up and run the project on your local machine.  
+
+### **Prerequisites**  
+Ensure you have the following installed before proceeding:  
+- **[Node.js](https://nodejs.org/)** (Latest LTS version)  
+- **MongoDB** (Ensure it's running locally or use a cloud database like [MongoDB Atlas](https://www.mongodb.com/atlas))  
+- **[Git](https://git-scm.com/)**  
+- A package manager (**npm** or **yarn**)  
+
+---
+
+### **1️⃣ Clone the Repository**  
+```sh
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+```
+### **2️⃣ Install Dependencies**   
+Backend
+```sh
+cd backend
+npm install
+```
+Frontend
+```sh
+cd zenithecommerce
+npm install
+```
+### **3️⃣ Set Up Env Variables**  
+```sh
+PORT=5000
+MONGO_URI=your_mongodb_connection_string
+JWT_SECRET=your_jwt_secret
+STRIPE_SECRET_KEY=your_stripe_secret_key
+```
+### **4️⃣ Start the Application**  
+Backend
+```sh
+cd backend
+npm start
+```
+Frontend
+```sh
+cd zenithecoomerce
+npm start
+```
+
+
+
