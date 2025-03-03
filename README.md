@@ -1,6 +1,6 @@
-# 🚀 Project Name
+# 🚀 Zenith Ecommerce Platform
 
-> A brief description of your project (1-2 lines).
+> Zenith E-commerce is a full-stack MERN application featuring secure authentication, dynamic product management, and seamless Stripe-powered payments. Built for scalability, it delivers a smooth shopping experience with real-time order processing and a responsive UI.
 
 ## 📜 Table of Contents
 - [About](#about)
