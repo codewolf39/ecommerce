@@ -23,6 +23,13 @@ Stripe Payment Gateway 💳: Seamlessly integrated Stripe for secure transaction
 Optimized Performance ⚡: Leveraged React hooks, Material UI components, and caching techniques to enhance page load times and user engagement.  
 With a scalable architecture and a focus on security, speed, and user experience, Zenith E-Commerce is a robust foundation for any online retail business. 🚀  
 
+![Image](https://github.com/user-attachments/assets/cf265cc3-e319-4e13-b0b7-eedf2305608c)
+![Image](https://github.com/user-attachments/assets/1f26928f-8cef-48c1-91cd-c29e4da71bf9)
+![Image](https://github.com/user-attachments/assets/072722c3-fd60-44c5-b66c-f8dfdcfb8660)
+![Image](https://github.com/user-attachments/assets/c109efc8-dba5-4f72-bf87-20bff622890a)
+![Image](https://github.com/user-attachments/assets/0d8a2200-dade-445f-b052-8049051748af)
+![Image](https://github.com/user-attachments/assets/a3cfa211-90a2-4423-8ab7-114ac3325550)
+
 ## ✨ Features
 ✅ 🔐 Secure Authentication – Implemented JWT-based authentication with role-based access control for enhanced security.  
 ✅ 🛍️ Product Management System – Fully functional CRUD operations for managing products, categories, and inventory in real-time.  
