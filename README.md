@@ -24,11 +24,11 @@ Optimized Performance ⚡: Leveraged React hooks, Material UI components, and ca
 With a scalable architecture and a focus on security, speed, and user experience, Zenith E-Commerce is a robust foundation for any online retail business. 🚀  
 
 ## ✨ Features
-✅ 🔐 Secure Authentication – Implemented JWT-based authentication with role-based access control for enhanced security.
+✅ 🔐 Secure Authentication – Implemented JWT-based authentication with role-based access control for enhanced security.  
 ✅ 🛍️ Product Management System – Fully functional CRUD operations for managing products, categories, and inventory in real-time.  
-✅ 🔄 RESTful API Architecture – Optimized Express.js APIs for efficient data handling, smooth client-server communication, and scalability.
-✅ 💳 Seamless Stripe Integration – Secure and reliable payment gateway supporting multiple payment methods for smooth transactions.
-✅ 🛒 Dynamic Cart & Checkout – Real-time cart updates, order summary, and streamlined checkout flow for a frictionless buying experience.
+✅ 🔄 RESTful API Architecture – Optimized Express.js APIs for efficient data handling, smooth client-server communication, and scalability.  
+✅ 💳 Seamless Stripe Integration – Secure and reliable payment gateway supporting multiple payment methods for smooth transactions.  
+✅ 🛒 Dynamic Cart & Checkout – Real-time cart updates, order summary, and streamlined checkout flow for a frictionless buying experience.  
 
 ## ⚙️ Installation
 1. **Clone the repository**  
