@@ -84,7 +84,7 @@ npm start
 ```
 Frontend
 ```sh
-cd zenithecoomerce
+cd zenithecommerce
 npm start
 ```
 
